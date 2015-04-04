@@ -1,3 +1,6 @@
+//clase que contiene el main
+
+
 
 public class TrianguloCuadrado {
 	public static void main (String[] ar){
