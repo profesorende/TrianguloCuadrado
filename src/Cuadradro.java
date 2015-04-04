@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//clase para obtener el perimetro y la superficie de un cuadrado
+
+
 public class Cuadradro {
 	private int lado;
 	Scanner teclado = new Scanner(System.in);
