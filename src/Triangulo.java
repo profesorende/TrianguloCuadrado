@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//clase para obtener el lado mayor de un triángulo y si es equilatero o no
+
+
 public class Triangulo {
 	private Scanner teclado;
 	private int lado1, lado2, lado3;
