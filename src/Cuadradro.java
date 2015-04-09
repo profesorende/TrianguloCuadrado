@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 //comentario para seguir probando....
 
-
+/* añado este nuevo comentario como repaso
+ * 
+ */
 public class Cuadradro {
 	private int lado;
 	Scanner teclado = new Scanner(System.in);
