@@ -7,6 +7,8 @@ import java.util.Scanner;
 /* añado este nuevo comentario como repaso
  * 
  */
+
+//Cambio realizado por arturo
 public class Cuadradro {
 	private int lado;
 	Scanner teclado = new Scanner(System.in);
